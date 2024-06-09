@@ -24,11 +24,11 @@ LibraryManager is a Python-based Library Management System for handling book inv
    python library_manager.py
    
   
-4.**Usage:**
--Follow the on-screen menu to navigate through various functionalities, including adding/removing books and members, lending/returning books, and viewing the current status of books, members, and loans.
+## Usage:
+Follow the on-screen menu to navigate through various functionalities, including adding/removing books and members, lending/returning books, and viewing the current status of books, members, and loans.
 
-5.**Contributing:**
--Contributions are welcome! Please fork the repository and create a pull request with your changes.
+## Contributing:
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 
 
